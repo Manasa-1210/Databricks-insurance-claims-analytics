@@ -1,0 +1,8 @@
+{
+  "env": "dev",
+  "bronze_db": "dev_bronze",
+  "silver_db": "dev_silver",
+  "gold_db": "dev_gold",
+  "audit_db": "dev_audit",
+  "raw_path": "/mnt/dev/raw"
+}
